@@ -1,8 +1,8 @@
 # firebase_flutter
 
-Flutter Firebase NoSQL : Croissants
+Flutter Firebase NoSQL : Login
 
-กฤษณพงศ์ พงศ์มณเฑียร 62020471
+จานุพงษ์ ขาเลศักดิ์ 62022608
 
 ## System
 
